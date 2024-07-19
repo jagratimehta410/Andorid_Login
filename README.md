@@ -7,9 +7,8 @@ Welcome to **Android_Login**, a Kotlin-based Android application that demonstrat
 ## 📹 Demo Video
 
 Watch the working video of the application here:
+https://github.com/user-attachments/assets/1ba60416-5ef0-44c9-931f-1f5855d9afb6
 
-
-*Replace `YOUR_VIDEO_ID` with the actual video ID from your YouTube video.*
 
 ## 🛠️ Features
 
@@ -84,3 +83,6 @@ For any questions or feedback, please reach out at [your-email@example.com](Jagr
 
 - **[Firebase](https://firebase.google.com/)** for providing a robust backend platform.
 - **[Android Developer](https://developer.android.com/)** for the tools and documentation.
+
+
+
