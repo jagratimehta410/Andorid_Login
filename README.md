@@ -33,7 +33,7 @@ To get started with **Android_Login**, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/jagratimehta410/Andorid_Login
+   https://github.com/jagratimehta410/Andorid_Login/
 
 2. **Open the Project in Android Studio:**
 
