@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519827791980",
+    "project_id": "login-e43b2",
+    "storage_bucket": "login-e43b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519827791980:android:9b421439764de8332cb849",
+        "android_client_info": {
+          "package_name": "com.example.mynewactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1GVkEqWBA4ak3OqAAbVwb8hLDXNXVkqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
