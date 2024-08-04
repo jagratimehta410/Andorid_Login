@@ -69,10 +69,6 @@ To get started with **Android_Login**, follow these steps:
 - Firebase Authentication: For user sign-up, login, and authentication.
 - Firebase Realtime Database: To store user information and retrieve it in real time
 
-  ## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👤 Author
 
 **Jagrati Mehta**  
