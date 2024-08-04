@@ -77,7 +77,7 @@ Android Developer
 
 ## 📧 Contact
 
-For any questions or feedback, please reach out at [your-email@example.com](Jagrati-jagratimehta410@gmail.com).
+For any questions or feedback, please reach out at [jagratimehta410@gmail.com](Jagrati-jagratimehta410@gmail.com).
 
 ## 🌟 Acknowledgements
 
